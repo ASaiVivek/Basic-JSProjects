@@ -1,3 +1,3 @@
-# TODOList-JS
-udemy course assignment
-### JavaScript Basics
+# Basic-JS-Project
+## udemy course assignment
+
