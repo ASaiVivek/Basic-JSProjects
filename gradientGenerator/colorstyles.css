@@ -1,0 +1,20 @@
+h1,h2{
+	text-align: center;
+	font-size: 30px;
+	color: rgba(0,0,0,0.5);	
+	letter-spacing: 0.5em;
+	text-transform: uppercase;
+}
+h2{
+	font-size: 20px;
+}
+h3{
+	text-align: center;
+	font-size: 10px;
+	color: rgba(0,0,0,1);	
+	letter-spacing: 0.01em;
+}	
+body{
+	text-align: center;
+	background: linear-gradient(to right,#ff0000,#00ff00);
+}
